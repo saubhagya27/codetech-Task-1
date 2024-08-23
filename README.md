@@ -14,6 +14,7 @@
 Project: Exploratory Data Analysis (EDA) on World Population Dataset
 
 **Objective**
+
 The goal of this project is to perform Exploratory Data Analysis (EDA) on the Titanic dataset to gain insights into the characteristics, distributions, correlations, and outliers in the data. By visualizing the data with various plots, we aim to uncover patterns and relationships that can inform further analysis or model building.
 
 **key Activities**
