@@ -34,3 +34,5 @@ Correllation Analysis
 -Matplotlib & Seaborn: For data visualization.
 
 **Outputs**
+
+<img width="960" alt="Screenshot 2024-08-21 210207" src="https://github.com/user-attachments/assets/c5185824-b742-44e0-bf20-f82c3b62f40a">
